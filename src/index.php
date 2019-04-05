@@ -14,7 +14,7 @@ class App extends Component {
         </header>
         <form method="post">
           <div class="dalam">
-            <table cellPadding="10px">
+            <table cellPadding="10px">sds
                 <tr>
                   <td>Tanggal Luar</td>
                   <td>:</td>
