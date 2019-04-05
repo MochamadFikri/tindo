@@ -18,12 +18,12 @@ class App extends Component {
                 <tr>
                   <td>Tanggal Luar</td>
                   <td>:</td>
-                  <td><input type="text"></input></td>
+                  <td><input type="text"></td>
                 </tr>
                 <tr>
                   <td>Tanggal Indonesia</td>
                   <td>:</td>
-                  <td><input type="text"></input></td>
+                  <td><input type="text"></td>
                 </tr>
                 <tr>
                   <td></td>
